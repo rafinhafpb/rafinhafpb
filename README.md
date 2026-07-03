@@ -4,8 +4,6 @@ I'm an **Electrical / Software Engineer** with a **Master's degree in Robotics**
 
 My work focuses on developing technologies that improve people's quality of life, particularly through assistive robotics, neurotechnology, and intelligent systems. I enjoy combining software engineering, embedded systems, machine learning, and scientific research to build tools that have a meaningful real-world impact.
 
----
-
 ## About Me
 
 <p align="left">
@@ -22,15 +20,11 @@ My work focuses on developing technologies that improve people's quality of life
   </a>
 </p>
 
----
-
 ## Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,matlab,git,vscode,docker" height="40"/>
 </p>
-
----
 
 ## GitHub Statistics
 
@@ -44,7 +38,6 @@ My work focuses on developing technologies that improve people's quality of life
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafinhafpb&theme=transparent&hide_border=true"/>
 </p>
 
----
 
 The best technologies are built collaboratively, and research has the greatest impact when the tools, code, and ideas behind it are openly available.
 
