@@ -13,7 +13,7 @@ My work focuses on developing technologies that improve people's quality of life
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
   &nbsp;
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://github.com/user-attachments/files/29644910/CV_Rafael_Benzi.pdf">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
   &nbsp;
